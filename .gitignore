@@ -1,0 +1,34 @@
+# Entornos virtuales
+.env/
+.venv/
+env/
+venv/
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de datos
+data/raw/
+data/processed/
+outputs/
+
+# Archivos de Power BI
+*.pbix
+
+# Archivos de configuración de VSCode (opcional)
+.vscode/
+
+# Archivos ocultos del sistema o backup
+*~
